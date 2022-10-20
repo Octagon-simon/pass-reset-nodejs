@@ -1,0 +1,32 @@
+{
+  "name": "pass-reset-feature-nodejs",
+  "version": "1.0.0",
+  "description": "This repository implements a basic password reset feature in NodeJS. You can modify the code to suit your application.",
+  "main": "index.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Octagon-simon/pass-reset-nodejs.git"
+  },
+  "keywords": [
+    "pass-reset",
+    "password",
+    "reset",
+    "nodejs"
+  ],
+  "author": "Simon Ugorji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Octagon-simon/pass-reset-nodejs/issues"
+  },
+  "homepage": "https://github.com/Octagon-simon/pass-reset-nodejs#readme"
+}
